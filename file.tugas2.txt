@@ -1,1 +1,1 @@
-Ini adalah tes apakah file ke2 ini bisa ditambah ke folder/branch main saya dan akan saya push ke repository saya di github 
+dear diary hari ini saya diajari menggunakan git dan github, saya mempelajari hal baru yang entah mengapa saya tiba-tiba bisa untuk menambahkan file baru dan mengganti isi file yang sudah ada di git hub repository saya dan juga semoga nanti di pelajaran coding saya dapat memahami sistematika alurnya. Terimakasih dear diary 
